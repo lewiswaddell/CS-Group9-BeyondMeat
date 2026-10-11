@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+
+/* Group 9 — Beyond Meat case study theme */
+$beyond-dark: #012604;
+$beyond-linen: #F6F1E7;
+$beyond-lime: #B5DD71;
+$beyond-white: #FFFFFF;
+$font-header: "GT Alpina", Georgia, serif;
+$font-body: "Sharp Sans Display No1", Arial, sans-serif;
+
+/*-- scss:rules --*/
+.reveal {
+  font-family: $font-body;
+  color: $beyond-dark !important;
+  background: $beyond-dark;
+  .slides section { height: 100%; max-height: 100%; overflow: hidden; box-sizing: border-box; }
+  h1, h2, h3, h4, h5, h6 { font-family: $font-header; font-weight: 300; letter-spacing: -0.02em; }
+  h1 { font-size: 2.5em; color: $beyond-dark !important; }
+  h2 { font-size: 2em; color: $beyond-dark !important; }
+  h3 { font-size: 1.5em; color: $beyond-dark !important; }
+  p, li { font-family: $font-body; color: $beyond-dark !important; }
+  p { font-size: 1em; line-height: 1.45; }
+  a { color: $beyond-dark !important; text-decoration: underline; text-decoration-color: $beyond-lime; text-decoration-thickness: 0.12em; }
+  .slide-background { background-color: $beyond-dark !important; }
+  .controls { color: $beyond-dark !important; }
+  .progress { background-color: rgba(1,38,4,.18); height: 5px; span { background-color: $beyond-lime !important; } }
+  ul, ol { font-size: 1.15em; line-height: 1.35; }
+  li::marker { color: $beyond-lime; }
+  .title-slide { background: $beyond-dark !important; color: $beyond-linen !important; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+  .title-slide h1, .title-slide p { color: $beyond-linen !important; }
+  .title-slide h1 { font-size: 3.25em; margin: .35em 0 .12em; }
+  .title-slide .subtitle { font-family: $font-body; color: $beyond-linen !important; font-size: 1.35em; letter-spacing: .08em; text-transform: uppercase; }
+  .beyond-logo { width: 94.5vw; max-width: 945px; max-height: 63vh; object-fit: contain; margin: 0 auto 1.25rem; background: transparent; border-radius: 0; padding: 0; }
+  .title-slide::after { content: ""; display: block; width: 5rem; height: .35rem; background: $beyond-lime; margin-top: 1rem; border-radius: 99px; }
+}
+
+html, body, .reveal-viewport, .reveal { background: #012604 !important; }
+.reveal .slides section { background-color: #012604 !important; color: #F6F1E7 !important; }
+.reveal .slides section h1, .reveal .slides section h2, .reveal .slides section h3, .reveal .slides section h4, .reveal .slides section h5, .reveal .slides section h6 { color: #B5DD71 !important; }
+.reveal .slides section p, .reveal .slides section li { color: #F6F1E7 !important; }
+.reveal .title-slide h1, .reveal .title-slide p { color: #F6F1E7 !important; }
+
+.reveal .slides section p, .reveal .slides section li { color: #FFFFFF !important; }
+.reveal .title-slide > *, .reveal .title-slide .title-copy { opacity: 1 !important; visibility: visible !important; display: block; }
+.reveal .title-slide .title-copy { width: 100%; }
+.reveal .controls, .reveal .controls button { color: #F6F1E7 !important; }
+.reveal .controls .navigate-left, .reveal .controls .navigate-right, .reveal .controls .navigate-up, .reveal .controls .navigate-down { border-color: #F6F1E7 !important; }
+.reveal .progress span { background-color: #F6F1E7 !important; }
+.reveal .title-slide h1, .reveal .title-slide p { color: #F6F1E7 !important; }
+.reveal .slides section h2 { color: #F6F1E7 !important; }
+.reveal .footer, .reveal footer, .reveal .slide-number { color: #F6F1E7 !important; }
+.reveal .title-slide .subtitle { color: #F6F1E7 !important; }

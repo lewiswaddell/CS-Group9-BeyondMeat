@@ -1,0 +1,156 @@
+/*-- scss:defaults --*/
+
+/* Group 9 — Beyond Meat case study theme
+   Based on the supplied cpptheme.scss template. */
+
+/* Beyond Meat-inspired palette */
+$beyond-green:       #39FF14;
+$beyond-green-dark:  #167A1D;
+$beyond-forest:      #0E3B24;
+$beyond-black:       #111111;
+$beyond-cream:       #F7F6F0;
+$beyond-white:       #FFFFFF;
+$beyond-red:         #E53935;
+$beyond-sage:        #DCE8D5;
+
+$font-primary: Arial, sans-serif;
+$font-secondary: Georgia, serif;
+$font-body: Arial, sans-serif;
+
+/*-- scss:rules --*/
+
+.reveal {
+  font-family: $font-body;
+  color: $beyond-black !important;
+
+  /* Keep each slide within the viewport; overflowing content is handled by
+     the deck's auto-split script or by adding a continuation slide. */
+  .slides section {
+    height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $font-primary;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  h1 {
+    font-size: 2.5em;
+    color: $beyond-forest !important;
+  }
+
+  h2 {
+    font-size: 2em;
+    color: $beyond-green-dark !important;
+  }
+
+  h3 {
+    font-size: 1.5em;
+    color: $beyond-forest !important;
+  }
+
+  p {
+    font-size: 1em;
+    line-height: 1.45;
+    color: $beyond-black !important;
+  }
+
+  a {
+    color: $beyond-green-dark !important;
+    text-decoration: underline;
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.12em;
+  }
+
+  .slide-background {
+    background-color: $beyond-cream !important;
+  }
+
+  .controls {
+    color: $beyond-forest !important;
+  }
+
+  .progress {
+    background-color: $beyond-sage !important;
+    height: 5px;
+
+    span {
+      background-color: $beyond-green-dark !important;
+    }
+  }
+
+  ul, ol {
+    font-size: 1.15em;
+    line-height: 1.35;
+  }
+
+  ul li::marker,
+  ol li::marker {
+    color: $beyond-green-dark;
+  }
+
+  blockquote {
+    width: 85%;
+    border-left: 0.25em solid $beyond-green;
+    background: $beyond-white;
+    box-shadow: none;
+    padding: 0.8em 1em;
+  }
+
+  pre code {
+    background-color: $beyond-forest;
+    color: $beyond-white;
+    font-size: 0.85em;
+    padding: 1em;
+    border-radius: 8px;
+    border: 2px solid $beyond-green;
+  }
+
+  .title-slide {
+    background: $beyond-forest !important;
+    color: $beyond-white !important;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1, h2, h3, p {
+      color: $beyond-white !important;
+    }
+  }
+
+  .beyond-logo {
+    width: min(42vw, 420px);
+    max-height: 28vh;
+    object-fit: contain;
+    margin: 0 auto 1.25rem;
+    background: $beyond-white;
+    border-radius: 12px;
+    padding: 0.4rem 0.75rem;
+  }
+
+  .section-label {
+    color: $beyond-green-dark;
+    font-size: 0.8em;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .highlight {
+    background-color: $beyond-green;
+    color: $beyond-black;
+    padding: 0.1em 0.35em;
+    border-radius: 0.2em;
+  }
+
+  .small { font-size: 0.75em; }
+  .medium { font-size: 1.25em; }
+  .large { font-size: 1.75em; }
+}
+
