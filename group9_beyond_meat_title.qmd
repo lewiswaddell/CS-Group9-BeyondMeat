@@ -32,25 +32,28 @@ footer: "IBM6200 |"
 
 ## Digital Marketing Practice
 
-### Beyond Meat’s Website and Digital Content
+### Beyond Meat’s Website
+
+![Beyond Meat website channels](image/channels-website-email.png)
 
 - Website presents the brand’s positioning
 - Displays products and product information
 - Includes a frequently asked questions section
 - Offers an email newsletter
-- Uses digital content to communicate:
-  - Health-related benefits
+- Supports:
+  - Brand awareness
+  - Product education
+  - Consumer consideration
+  - Continued engagement
+- Communicates themes related to:
+  - Health and nutrition
   - Environmental concerns
   - Ethical considerations
-  - Product uses and meal ideas
-- Expanded digital marketing through:
-  - National Basketball Players Association partnership
-  - Digital cookbook, *Go Beyond the Buzzer*
-  - Documentary, *Planting Change*
+  - Product use and meal ideas
 
-**Takeaway:** Beyond Meat uses its website, email communication, digital content, and partnerships to educate consumers and encourage product consideration.
+**Takeaway:** Beyond Meat’s website supports brand awareness, consumer education, product consideration, and ongoing engagement.
 
-<small>Sources: Beyond Meat official website [3]; Vegconomist [2]</small>
+<small>Source: Beyond Meat official website [2]</small>
 
 ---
 
@@ -110,6 +113,34 @@ footer: "IBM6200 |"
 
 ---
 
+### Direct Competitor Comparison
+
+| Competitor | Category | Competitive relevance |
+|---|---|---|
+| LikeMeat | Plant-based meat | Germany-based brand competing in the alternative-protein market |
+| Impossible Foods | Plant-based meat | Competes for consumers seeking meat alternatives |
+| MorningStar Farms | Meat alternatives | Established competitor in the plant-based category |
+| Beyond Meat | Plant-based meat | Uses product innovation, health positioning, environmental messaging, and consumer familiarity |
+
+**Comparison criteria**
+
+- Target market
+- Product positioning
+- Health and environmental messaging
+- Taste and texture expectations
+- Product placement
+- Digital marketing channels
+- Convenience and accessibility
+
+**Key competitive question:**  
+What makes Beyond Meat more appealing than another plant-based brand or traditional meat product?
+
+**Takeaway:** Listing competitors is only the starting point. Beyond Meat must explain how its positioning and marketing practices differentiate it from other plant-based brands.
+
+<small>Source: Beyond Meat case, pp. 13–14 [1]; competitor websites [3–5]</small>
+
+---
+
 ### Consumer Priorities and Market Acceptance
 
 - The meat-alternative market was evolving rapidly
@@ -146,13 +177,13 @@ footer: "IBM6200 |"
 | Can respond to health-related concerns | Consumers may be uncertain about changing eating habits |
 | Can respond to environmental concerns | Marketing must explain how the product fits into meals |
 | Can target health-conscious consumers | The company must decide which benefits to emphasize |
-| Has website and digital-content capabilities | Taste and texture may still influence acceptance |
-| Can use partnerships and digital storytelling | Mainstream acceptance may take time |
+| Has a website and digital-content capabilities | Taste and texture may still influence acceptance |
+| Can use its website to educate consumers | Mainstream acceptance may take time |
 | Can learn from Silk’s adoption strategy | Consumers may not view plant-based products as a natural substitute |
 
-**Takeaway:** Beyond Meat’s strengths come from market growth, consumer concerns, digital communication, and marketing opportunities, while its weaknesses involve uncertainty and resistance to changing food habits.
+**Takeaway:** Beyond Meat’s strengths come from market growth, consumer concerns, its website, and marketing opportunities, while its weaknesses involve uncertainty and resistance to changing food habits.
 
-<small>Sources: Beyond Meat case, pp. 13–14 [1]; Beyond Meat official website [3]; Vegconomist [2]</small>
+<small>Sources: Beyond Meat case, pp. 13–14 [1]; Beyond Meat official website [2]</small>
 
 ---
 
@@ -164,22 +195,21 @@ footer: "IBM6200 |"
 | Target consumers concerned about the environment | Competition from MorningStar Farms |
 | Reach flexitarians and occasional meat reducers | Tyson entering the plant-based market |
 | Position plant-based meat as a health-conscious alternative | Competition from established meat companies |
-| Use digital partnerships and content | Food scares may affect consumer trust |
+| Use the website to educate consumers | Food scares may affect consumer trust |
 | Use familiar product placement and meal occasions | Resistance to changing traditional eating habits |
 | Expand beyond committed vegetarians | Consumers may remain unconvinced about product benefits |
 | Build mainstream acceptance | Competitors may use similar health and environmental messaging |
 
 **Takeaway:** Beyond Meat’s strongest opportunity is to make plant-based meat familiar and acceptable to mainstream consumers, while its major threats are growing competition, consumer concerns, and resistance to behavior change.
 
-<small>Sources: Beyond Meat case, pp. 13–14 [1]; Vegconomist [2]</small>
+<small>Source: Beyond Meat case, pp. 13–14 [1]</small>
 
 <!-- References:
 
 1. Beyond Meat: Changing Customer Behaviour in Food Consumption. Harvard Business Review. 2020.
 
-2. Beyond Meat Rolls Out Beyond Chicken Pieces at Kroger, Fuelled by Strong Consumer Interest. Vegconomist. 2025. ProQuest. Accessed October 10, 2026.
+2. Beyond Meat. Beyond Meat. Accessed October 11, 2026. https://www.beyondmeat.com/
 
-3. Beyond Meat. Beyond Meat. Accessed October 10, 2026. https://www.beyondmeat.com/
 -->
 
 ## Research Framework
