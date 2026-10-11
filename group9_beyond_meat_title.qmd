@@ -32,9 +32,155 @@ footer: "IBM6200 |"
 
 ## Digital Marketing Practice
 
+### Beyond Meat’s Website and Digital Content
+
+- Website presents the brand’s positioning
+- Displays products and product information
+- Includes a frequently asked questions section
+- Offers an email newsletter
+- Uses digital content to communicate:
+  - Health-related benefits
+  - Environmental concerns
+  - Ethical considerations
+  - Product uses and meal ideas
+- Expanded digital marketing through:
+  - National Basketball Players Association partnership
+  - Digital cookbook, *Go Beyond the Buzzer*
+  - Documentary, *Planting Change*
+
+**Takeaway:** Beyond Meat uses its website, email communication, digital content, and partnerships to educate consumers and encourage product consideration.
+
+<small>Sources: Beyond Meat official website [3]; Vegconomist [2]</small>
+
+---
+
+### Familiarity and Consumer Adoption
+
+- The case compares Beyond Meat’s strategy with Silk’s success
+- Silk placed products in the refrigerated dairy section
+- Familiar placement made the product:
+  - Easier to find
+  - Easier to recognize
+  - Easier to compare with traditional milk
+- Beyond Meat could use similar familiarity-based positioning
+- Possible approaches:
+  - Place products near traditional meat
+  - Use familiar product categories
+  - Show familiar meal occasions
+  - Emphasize easy substitution
+- Product placement is a retail marketing practice, not a digital channel
+
+**Takeaway:** Familiar packaging, placement, and meal occasions may reduce uncertainty for first-time buyers.
+
+<small>Source: Beyond Meat case, p. 14 [1]</small>
+
+---
+
 ## Competitive Analysis
 
+### Market Size and Major Competitors
+
+- In 2013, the U.S. meat industry generated:
+  - $219 billion in annual revenue
+  - $19 billion in net profits
+- Traditional meat industry growth:
+  - Approximately 4% annually from 2009 to 2014
+- Meat-alternative market:
+  - Reached $553 million in 2012
+  - Grew 8% from 2010
+
+**Direct plant-based competitors**
+
+- LikeMeat
+- Impossible Foods
+- MorningStar Farms
+
+**Traditional and cross-category competitors**
+
+- Pilgrim’s Pride Corporation
+- Sanderson Farms Inc.
+- Perdue Farms Inc.
+- Tyson Foods Inc.
+  - Traditionally known for animal protein
+  - Also launching plant-based alternatives
+
+**Takeaway:** Beyond Meat entered a much larger traditional meat industry, while the faster growth of meat alternatives created an opportunity for expansion.
+
+<small>Source: Beyond Meat case, pp. 13–14 [1]</small>
+
+---
+
+### Consumer Priorities and Market Acceptance
+
+- The meat-alternative market was evolving rapidly
+- Health concerns influenced consumer interest
+- Environmental concerns influenced consumer interest
+- Ethical concerns may influence attitudes toward animal protein
+- Food scares may affect perceptions of traditional meat
+- Mainstream acceptance remained important for long-term growth
+- Consumers may evaluate products using more than taste and texture
+- Important consumer questions include:
+  - Is the product healthy?
+  - Is it environmentally responsible?
+  - Is it familiar?
+  - Is it convenient?
+  - Is it worth trying?
+- Beyond Meat needed to decide whether to:
+  - Focus on replicating animal protein
+  - Emphasize health and environmental benefits
+  - Combine both approaches
+
+**Takeaway:** Beyond Meat’s competitive advantage may depend on changing consumer attitudes and achieving mainstream acceptance, not only on replicating meat’s taste and texture.
+
+<small>Source: Beyond Meat case, pp. 13–14 [1]</small>
+
+---
+
 ## SWOT Analysis
+
+### Internal Strengths and Weaknesses
+
+| Strengths | Weaknesses |
+|---|---|
+| Operates in a growing meat-alternative market | Consumers may remain attached to traditional meat |
+| Can respond to health-related concerns | Consumers may be uncertain about changing eating habits |
+| Can respond to environmental concerns | Marketing must explain how the product fits into meals |
+| Can target health-conscious consumers | The company must decide which benefits to emphasize |
+| Has website and digital-content capabilities | Taste and texture may still influence acceptance |
+| Can use partnerships and digital storytelling | Mainstream acceptance may take time |
+| Can learn from Silk’s adoption strategy | Consumers may not view plant-based products as a natural substitute |
+
+**Takeaway:** Beyond Meat’s strengths come from market growth, consumer concerns, digital communication, and marketing opportunities, while its weaknesses involve uncertainty and resistance to changing food habits.
+
+<small>Sources: Beyond Meat case, pp. 13–14 [1]; Beyond Meat official website [3]; Vegconomist [2]</small>
+
+---
+
+### External Opportunities and Threats
+
+| Opportunities | Threats |
+|---|---|
+| Target consumers interested in health and nutrition | Competition from LikeMeat and Impossible Foods |
+| Target consumers concerned about the environment | Competition from MorningStar Farms |
+| Reach flexitarians and occasional meat reducers | Tyson entering the plant-based market |
+| Position plant-based meat as a health-conscious alternative | Competition from established meat companies |
+| Use digital partnerships and content | Food scares may affect consumer trust |
+| Use familiar product placement and meal occasions | Resistance to changing traditional eating habits |
+| Expand beyond committed vegetarians | Consumers may remain unconvinced about product benefits |
+| Build mainstream acceptance | Competitors may use similar health and environmental messaging |
+
+**Takeaway:** Beyond Meat’s strongest opportunity is to make plant-based meat familiar and acceptable to mainstream consumers, while its major threats are growing competition, consumer concerns, and resistance to behavior change.
+
+<small>Sources: Beyond Meat case, pp. 13–14 [1]; Vegconomist [2]</small>
+
+<!-- References:
+
+1. Beyond Meat: Changing Customer Behaviour in Food Consumption. Harvard Business Review. 2020.
+
+2. Beyond Meat Rolls Out Beyond Chicken Pieces at Kroger, Fuelled by Strong Consumer Interest. Vegconomist. 2025. ProQuest. Accessed October 10, 2026.
+
+3. Beyond Meat. Beyond Meat. Accessed October 10, 2026. https://www.beyondmeat.com/
+-->
 
 ## Research Framework
 
