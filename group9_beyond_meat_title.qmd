@@ -30,55 +30,39 @@ footer: "IBM6200 |"
 
 ## Marketing Program
 
-## Digital Marketing Practice {background-color="#F3EAD8"}
-
-::: {style="font-size: 0.75em; line-height: 1.1;"}
+## Digital Marketing Practice
 
 ### Beyond Meat’s Website
 
+::: {style="font-size: 0.45em; line-height: 1.1;"}
+
+:::: {.columns}
+
+::: {.column width="58%"}
+
 <img src="images/channels-website-email.png"
      alt="Beyond Meat website showing digital marketing channels"
-     style="width: 55%; max-height: 360px; object-fit: contain;">
+     style="width:100%; max-height:420px; object-fit:contain;">
 
 <small>Source: Beyond Meat official website [2]</small>
 
 :::
 
----
+::: {.column width="42%"}
 
-## Digital Marketing Practice
+### Why This Channel is Effective
 
-::: {style="font-size: 0.75em; line-height: 1.1;"}
+- **Brand positioning:** Communicates Beyond Meat’s plant-based identity
+- **Product education:** Shows products and product information
+- **Consumer support:** Uses FAQs to answer questions and reduce uncertainty
+- **Consumer engagement:** Uses an email newsletter to maintain contact
+- **Purchase consideration:** Helps consumers explore products before buying
 
-### Website Features and Consumer Engagement
-
-- Presents Beyond Meat’s brand positioning
-- Displays products and product information
-- Includes a frequently asked questions section
-- Offers an email newsletter
-- Supports consumer education and product consideration
-
-**Takeaway:** Beyond Meat’s website helps consumers understand the brand, explore products, and remain engaged.
-
-<small>Source: Beyond Meat official website [2]</small>
+**Takeaway:** The website attracts, informs, and keeps consumers engaged throughout the buying process.
 
 :::
 
----
-
-## Marketing Practices and Consumer Adoption
-
-::: {style="font-size: 0.75em; line-height: 1.1;"}
-
-- The case compares Beyond Meat with Silk
-- Silk placed plant-based milk beside traditional milk
-- Familiar placement made the product easier to find and recognize
-- Similar placement could help Beyond Meat reach traditional meat consumers
-- Familiar meal occasions may reduce uncertainty
-
-**Takeaway:** Familiar packaging, placement, and meal occasions can make behavior change easier for first-time buyers.
-
-<small>Source: Beyond Meat case, p. 14 [1]</small>
+::::
 
 :::
 
@@ -135,23 +119,25 @@ footer: "IBM6200 |"
 
 ## Competitive Analysis
 
-::: {style="font-size: 0.55em; line-height: 1.1;"}
+::: {style="font-size: 0.50em; line-height: 1.05;"}
 
-### Direct Competitor Comparison
+### Direct and Indirect Competitors
 
-| Competitor | Category | Competitive relevance |
+| Competitor group | Companies | Why they matter |
 |---|---|---|
-| LikeMeat | Plant-based meat | Direct competitor identified in the case |
-| Impossible Foods | Plant-based meat | Competes for meat-alternative consumers |
-| MorningStar Farms | Meat alternatives | Established plant-based competitor |
-| Beyond Meat | Plant-based meat | Focal company competing across the category |
+| Direct plant-based competitors | LikeMeat, Impossible Foods, MorningStar Farms | Compete for consumers seeking meat alternatives |
+| Traditional meat competitors | Pilgrim’s Pride, Sanderson Farms, Perdue Farms | Compete for consumers’ established meat purchases |
+| Cross-category competitor | Tyson Foods | Traditional meat company also entering plant-based products |
+| Focal company | Beyond Meat | Must differentiate its products and positioning |
 
-- Competitors target similar consumer needs
-- Health, environment, taste, and convenience shape competition
-- Tyson also entered the plant-based market
-- Beyond Meat must clearly differentiate its positioning
+### Basis of Competition
 
-**Takeaway:** Beyond Meat must explain why consumers should choose its products over other plant-based brands and traditional meat.
+- **Consumer benefits:** Health, environmental impact, taste, and convenience
+- **Consumer adoption:** Familiar packaging, placement, and meal occasions
+- **Market challenge:** Convincing consumers to change established food habits
+- **Strategic question:** Whether to emphasize meat-like taste and texture, health and environmental benefits, or a combination
+
+**Takeaway:** Beyond Meat competes with both plant-based brands and traditional meat companies. Its key challenge is differentiating itself while making plant-based meat acceptable to mainstream consumers.
 
 <small>Source: Beyond Meat case, pp. 13–14 [1]</small>
 
