@@ -480,20 +480,20 @@ Turning Meat Eaters into Beyond Meat Buyers
 
 - Examine whether interest in nutrition and sustainability influences responses.
 
-### Research Goal
+Expected Results
 
-- Understand what influences consumers' willingness to replace traditional meat with Beyond Meat, identify barriers to adoption, and determine which product benefits and marketing messages are most effective at encouraging that change.
+- We expect product tasting to influence consumer perceptions and purchase intentions with results varying (Based on 45% of consumers ages 18-24 citing that taste is a reason for trying the product, pg.3)
+
+- We expect different marketing messages to influence consumer perceptions and purchase intentions, with the results depending on their personal interest in taste, health, and sustainability.
 :::
 :::::
 ::::::
 
-## Recommendations: Marketing Strategy
+## Recommendations: Taste and Product Experience
 
 :::::: {style="font-size: 48%;"}
 ::::: columns
 ::: {.column width="50%"}
-### Taste & Product Experience
-
 **Address Consumer Concerns**
 
 - Show consumers how Beyond Meat compares to traditional meat, especially when it comes to taste and texture.
@@ -529,14 +529,12 @@ Turning Meat Eaters into Beyond Meat Buyers
 :::::
 ::::::
 
-## Recommendations: Implementation & Managerial Implications
+## Recommendations: Targeted Marketing and Consumer Adoption
 
 :::::: {style="font-size: 48%;"}
 ::::: columns
 ::: {.column width="50%"}
-### Putting the Strategy Into Action
-
-**Product Sampling**
+**Product SamplingT**
 
 Offer in-store tasting opportunities to help consumers become more comfortable trying Beyond Meat.
 
