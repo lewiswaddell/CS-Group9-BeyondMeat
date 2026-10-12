@@ -20,21 +20,148 @@ footer: "IBM6200 |"
 <img src="images/beyondmeatgreen_transparent.png" alt="Beyond Meat logo" class="beyond-logo"/>
 
 ::: title-copy
-<h1>Beyond Meat Case Study</h1>
+<h1>Beyond the Bite</h1>
 
 <p class="subtitle">
 
-Group 9
+Turning Meat Eaters into Beyond Meat Buyers
 
 </p>
+
+<h4>Group 9</h4> 
+
+<small>Luis Ahumada, Leeann Lewis-Waddell, Brian Vuong</small>
 :::
 ::::
 
 ## Problem
 
+:::::: {style="font-size: 0.55em; line-height: 1.1;"}
+::::: columns
+::: {.column width="50%"}
+### Why Change Is Hard
+
+- **Mission:** Replace animal protein with plant protein for the mass market
+- **Narrow base:** Customers were mainly vegans and vegetarians
+- **Cultural habit:** Meat is central to U.S. meals, from barbecues to holiday dinners
+- **Small niche:** Only 7% of U.S. consumers identified as vegetarian in 2013
+- **Partial adoption:** 36% used meat alternatives, but fewer than half used them in place of meat
+:::
+
+::: {.column width="50%"}
+### Decisions Facing Beyond Meat
+
+- **Product:** Replicate meat exactly, or become part of complete meals?
+- **Message:** Promote health and nutrition, environmental benefits, or both?
+- **Target:** Serve vegetarians, or win over meat eaters willing to try something new?
+- **Strategy:** Follow Silk's lead by positioning next to the product it replaces
+:::
+:::::
+
+**Problem Statement:** How can Beyond Meat change consumer perceptions and habits so mainstream meat eaters make plant-based meat part of their regular diets?
+
+<small>Source: Harvard Cases for Online Consumer Psychology and Behaviors, pp. 9</small>
+::::::
+
+------------------------------------------------------------------------
+
+## Strategy in Practice: Packaging Like Meat
+
+:::::: {style="font-size: 0.45em; line-height: 1.1;"}
+::::: columns
+::: {.column width="58%"}
+```{=html}
+<img src="images/vegan-plant-based-news-beyond-meat-guide (1).jpeg"
+     alt="Beyond Sausage, Beyond Beef, and Beyond Burger packaging"
+     style="width:100%; max-height:420px; object-fit:contain;">
+```
+
+<small>Source: LIVEKINDLY</small>
+:::
+
+::: {.column width="42%"}
+### How the Packaging Supports the Strategy
+
+- **Familiar formats:** Sausage, ground beef, and burger patties match foods meat eaters already buy
+- **Meat-like look:** Clear windows show a red, raw product that resembles animal meat
+- **Meat-case placement:** Refrigerated packaging puts it next to meat, following Silk's lead in the dairy aisle
+- **Direct comparisons:** Claims like "25% less sat. fat than ground beef" frame it against meat, not as a niche substitute
+- **Clear benefits:** 20g of plant protein and no soy, gluten, or GMOs address health concerns
+
+**Takeaway:** The packaging lowers the barrier to trial by making plant-based meat look and shop like the meat consumers already know.
+:::
+:::::
+::::::
+
+------------------------------------------------------------------------
+
 ## Objectives
 
+:::::: {style="font-size: 0.55em; line-height: 1.1;"}
+::::: columns
+::: {.column width="50%"}
+### Research Objectives
+
+- **Identify barriers:** Understand what keeps traditional meat eaters from trying Beyond Meat
+- **Test messages:** Compare taste and texture messaging with health and sustainability messaging
+- **Measure trial impact:** Determine whether tasting Beyond Meat changes attitudes and purchase intentions
+- **Examine involvement:** Learn whether interest in nutrition and sustainability shapes how consumers respond
+:::
+
+::: {.column width="50%"}
+### Business Objectives
+
+- **Expand the customer base:** Reach meat eaters beyond the core vegan and vegetarian market
+- **Drive first purchases:** Encourage consumers to give Beyond Meat a try
+- **Build repeat buying:** Make Beyond Meat part of consumers' regular meals
+- **Guide marketing decisions:** Use research findings to shape positioning, messaging, and targeting
+:::
+:::::
+
+**Takeaway:** Our goal is to learn what motivates meat eaters to try plant-based meat and turn those insights into a strategy that moves Beyond Meat into the mainstream.
+
+<small>Source: Harvard Cases for Online Consumer Psychology and Behaviors, p. 15 </small>
+::::::
+
+------------------------------------------------------------------------
+
 ## Marketing Program
+
+## Marketing Program
+
+:::::: {style="font-size: 0.55em; line-height: 1.1;"}
+::::: columns
+::: {.column width="50%"}
+### Product
+
+- **Line:** Beef Crumbles and Chicken Strips
+- **Design:** Looks, tastes, and feels like meat
+- **Nutrition:** Similar protein, about half the fat
+
+### Price
+
+- **Competitive:** \$5.45 for 9 oz vs. \$5.99 for 8 oz of organic chicken strips
+:::
+
+::: {.column width="50%"}
+### Place
+
+- **Retail:** Whole Foods first, then 5,000 U.S. locations by 2014
+- **Food service:** Restaurants and other non-retail buyers
+
+### Promotion
+
+- **Social media:** Customer photos on Twitter
+- **Recognition:** Forbes 2014 CircleUp25 list
+:::
+:::::
+
+**Takeaway:** Strong product and competitive price, but the customer base was still mostly vegans and vegetarians.
+
+<small>Source: Harvard Cases for Online Consumer Psychology and Behaviors, pp. 9, 13, 19</small>
+::::::
+
+------------------------------------------------------------------------
 
 ## Digital Marketing Practice
 
@@ -435,3 +562,19 @@ Use consumer insights to guide product positioning, marketing decisions, and lon
 :::
 :::::
 ::::::
+
+------------------------------------------------------------------------
+
+:::: title-slide
+<img src="images/beyondmeatgreen_transparent.png" alt="Beyond Meat logo" class="beyond-logo"/>
+
+::: title-copy
+<h1>Questions?</h1>
+
+<p class="subtitle">
+
+Thank You!
+
+</p>
+:::
+::::
