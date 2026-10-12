@@ -65,7 +65,9 @@ Turning Meat Eaters into Beyond Meat Buyers
 
 ------------------------------------------------------------------------
 
-## Strategy in Practice: Packaging Like Meat
+## Strategy in Practice
+
+### Packaging Like Meat
 
 :::::: {style="font-size: 0.45em; line-height: 1.1;"}
 ::::: columns
