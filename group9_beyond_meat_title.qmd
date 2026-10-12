@@ -28,7 +28,7 @@ Turning Meat Eaters into Beyond Meat Buyers
 
 </p>
 
-<h4>Group 9</h4> 
+<h4>Group 9</h4>
 
 <small>Luis Ahumada, Leeann Lewis-Waddell, Brian Vuong</small>
 :::
@@ -309,7 +309,7 @@ Turning Meat Eaters into Beyond Meat Buyers
 -->
 ```
 
-## Research Framework: ELM
+## Research Framework: Elaboration Likelihood Model 
 
 :::::: {style="font-size: 0.52em; line-height: 1.15;"}
 ::::: columns
@@ -343,6 +343,10 @@ Turning Meat Eaters into Beyond Meat Buyers
 **Role of Involvement**
 
 - Examine whether involvement changes responses to different messages. Someone who is into nutrition might respond differently than someone who is just purchasing because of the appeal of the product.
+
+**Analytics Objective: Marketing Effectiveness**
+
+- Determine how different marketing messages and product tasting affect consumer attitude and willingness to purchase Beyond Meat
 :::
 :::::
 
@@ -351,7 +355,7 @@ Turning Meat Eaters into Beyond Meat Buyers
 <small>Source: Petty, Cacioppo, and Schumann (1983).</small>
 ::::::
 
-## Research Framework: TPB
+## Research Framework: Theory of Planned Behavior
 
 :::::: {style="font-size: 0.52em; line-height: 1.15;"}
 ::::: columns
@@ -385,6 +389,10 @@ Turning Meat Eaters into Beyond Meat Buyers
 **Purchase Intentions**
 
 - Analyze which factors are associated with consumers' intentions to try Beyond Meat.
+
+**AnalytIcs Objective: Consumer Behavior**
+
+- Measure how consumer attitudes, social influence and purchase barriers relate their willingness to purchase Beyond Meat
 :::
 :::::
 
